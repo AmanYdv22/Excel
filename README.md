@@ -1,1 +1,1 @@
-This excel file only focuses on the EXACT function which is being used in excel to check whether Data given are of same Data types or not which only retrieve the function in only TRUE or FALSE statement.
+EXACT function =EXACT(text1,text2)
