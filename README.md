@@ -1,2 +1,2 @@
-EXACT function =EXACT(text1,text2)  <br />
-TRIM function =TRIM(coloumn)
+1. EXACT function =EXACT(text1,text2)  <br />
+2. TRIM function =TRIM(coloumn)
