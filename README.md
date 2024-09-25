@@ -1,3 +1,4 @@
-1. EXACT function =EXACT(text1,text2)  <br />
-2. TRIM function =TRIM(coloumn) <br />
-3. VALUE funtion=VALUE(text)
+1. EXACT function  <br />
+2. TRIM function  <br />
+3. VALUE funtion <br />
+4. TEXT function
